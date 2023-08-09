@@ -1,2 +1,2 @@
 # Smart-Argo-System
-It is a web application designed  to show the moisture level of the soil for the calculation of soil moisture.. It was designed for the IOT project which was held at my college for my first ever IOT projectand was one of the tough project.
+The Soil Moisture Sensor System is an Internet of Things (IoT) project developed as a part of the second-year curriculum for the IoT subject. This project involves the creation of a website that displays real-time soil moisture data collected from a moisture sensor placed in the soil. The goal of this project is to monitor and visualize soil moisture levels, aiding in efficient water management for various applications such as agriculture, gardening, and environmental monitoring.
